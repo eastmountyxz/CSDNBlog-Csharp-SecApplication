@@ -1,12 +1,22 @@
 # CSDNBlog-Csharp-SecApplication
-该资源为作者CSDN博客资源，主要是采用C#实现Eastmount安全卫士应用。涉及相关知识：
+该资源为作者CSDN博客资源，主要是采用C#实现Eastmount安全卫士应用。涉及相关应用：
 
+- 清除与获取浏览器记录
+- 清除与获取office文档记录
+- 清空回收站
+- 清除与获取U盘记录
+- 电脑数据清理
+- 树状图显示电脑文件
+- 文件粉碎
 
+<br />
 
 <div align="center">
   <img src="https://img-blog.csdnimg.cn/20190928180514181.png" width="70%" height="70%" />
 </div>
 
+
+<br />
 
 对应文章： <br />
 [C# 系统应用之清空回收站操作](https://blog.csdn.net/Eastmount/article/details/18414935) <br />
